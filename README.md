@@ -81,7 +81,7 @@ graph TD
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/tf_aws_nat_asg.git
+git clone https://github.com/mohansaravanan21/tf_aws_nat_asg.git
 cd tf_aws_nat_asg
 ```
 
