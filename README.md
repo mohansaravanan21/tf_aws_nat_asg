@@ -30,6 +30,8 @@ graph TD
   E --> C
 ```
 
+<img width="685" height="541" alt="image" src="https://github.com/user-attachments/assets/6331f67c-2f92-4b2e-bd9d-7ef4cc9862bd" />
+
 ---
 
 ## Features
